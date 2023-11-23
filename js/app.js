@@ -59,3 +59,4 @@ let zodiacSign = getZodiacSign(birthMonth - 1, birthDay);
 
 // Mostrar los resultados
 alert(`Hola ${nombre}, naciste en el año ${birthYear} y tu signo del zodiaco es ${zodiacSign}.`);
+//sube
